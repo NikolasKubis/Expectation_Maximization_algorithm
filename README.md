@@ -10,3 +10,9 @@ covariances of the GMM. The algorithm outputs the means and covariances of the G
 
 As a working example we deploy three independent Gaussian random vectors 
 on the plane and we try to cluster them by using EM. 
+
+<p float="left">
+  <img src="figs_jpg/raw_data.jpg" width="300" height="220"/> 
+  <img src="figs_jpg/clustered_data.jpg" width="300" height="220"/>
+  <img src="figs_jpg/soft_clustering.jpg" width="300" height="220"/> 
+</p>
